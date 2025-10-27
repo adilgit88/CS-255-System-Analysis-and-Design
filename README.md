@@ -19,7 +19,7 @@ My approach to designing software begins with **understanding the problem domain
 
 **Included Artifacts:**
 
-* `BusinessRequirementsDocument.pdf` (Project One)
+* `CS 255 Business Requirements Document .pdf` (Project One)
 * `SystemDesignDocument.pdf` (Project Two)
 * `README.md` (This reflection)
 
